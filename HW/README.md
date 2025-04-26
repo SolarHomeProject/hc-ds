@@ -1,6 +1,9 @@
 # hc-ds-hw
 Hardware documentation for DoorStation controller
 
+* Schematic
+[Schematic](DoorStation.pdf "Schematic")
+
 * Front Controller/Audio
 ![](imgs/IMG_8950.jpeg?raw=true "Front site")
 
